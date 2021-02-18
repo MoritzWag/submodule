@@ -23,3 +23,6 @@ If changes are made to sslts from sslts:
 1. change into the directory of the submodule: ´cd submodule´
 2. git checkout main/master
 3. git pull origin main/master
+
+
+### Changes that are not accepted
