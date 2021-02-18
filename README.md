@@ -1,23 +1,15 @@
+# Integration of Submodule in Git Repository
 
-# submodule
-Sub module
+## Setup
+1. From the main repository run command: 'git submodule add repository'
+2. Initialize the submodules: 'git submodule init'
+3. Update in order to pull down the files: 'git submodule update'
 
-# Here are only changes to the submodule
+## Workflow
+### Changes to suresort
+In case where changes are only made to suresort, everything works as usual.
 
-
-# Now I work in branch in mainmodule but do changes to the submodule
-
-
-
-# Now I make changes in submodule and in mainmodule in same branch
-
-
-# Now I make changes in submodule from submodule
-To test whether we can easily merge
+### Changes to sslts from suresort
 
 
-
-# I dont know how many more changes
-
-
-# Some subs!
+### Pull changes from sslts to suresort
